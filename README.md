@@ -1,21 +1,24 @@
-<h1 align="center">Hi, I'm Hermenegildo Santos 👋</h1>
-
+<!-- Banner -->
 <p align="center">
-  <b>Full-Stack AI Engineer</b> — I ship production AI products end-to-end: the model integration, the backend, the UI, and the live experience around it.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hermenegildo%20Santos&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20AI%20Engineer&descSize=22&descAlignY=60" alt="Hermenegildo Santos" />
 </p>
 
+<!-- Button badges -->
 <p align="center">
-  <a href="https://hermenegildosantos.site">🌐 Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/hermenegildosantos">💼 LinkedIn</a> ·
-  <a href="mailto:hermeny7@hotmail.com">✉️ Email</a>
+  <a href="https://hermenegildosantos.site"><img src="https://img.shields.io/badge/PORTFOLIO-E0A419?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/hermenegildosantos"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hermeny7@hotmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://orcid.org/0009-0004-3865-7072"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
 </p>
 
----
+## About Me
 
-5+ years shipping production systems across **healthcare, enterprise, and immersive-experience** domains. Generalist across backend, frontend, mobile, cloud, and AI integration — ramps fast, delivers under pressure.
+Full-Stack **AI Engineer** — I ship production AI products end-to-end: the model integration, the backend, the UI, and the live experience around it.
 
-- 🤖 Building **human-in-the-loop AI** for live events — Azure OpenAI GPT-4o generation, OpenAI Realtime API over WebRTC, real-time TTS, WebSocket audience broadcast.
-- 🚀 Architected an **Azure Functions + Cosmos DB backend serving 2,100 concurrent users** across 12 global locations — built in 5 weeks, first time on the stack, shipped on time with zero incidents.
+Currently building immersive, AI-driven live experiences as a Full-Stack Engineer at [Dorier](https://dorier-group.com), part of MCI Group. 5+ years shipping production systems across **healthcare, enterprise, and immersive-experience** domains — generalist across backend, frontend, mobile, cloud, and AI integration.
+
+- 🤖 Building **human-in-the-loop AI** for live events — Azure OpenAI GPT-4o, OpenAI Realtime API over WebRTC, real-time TTS, WebSocket audience broadcast.
+- 🚀 Architected an **Azure Functions + Cosmos DB backend serving 2,100 concurrent users** across 12 global locations — built in 5 weeks, first time on the stack, zero incidents.
 - 🌍 Based in Portugal · open to remote worldwide.
 
 ## 🔨 Featured Work
