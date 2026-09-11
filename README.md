@@ -5,7 +5,7 @@
  
 <!-- Button badges -->
 <p align="center">
-  <a href="https://hermenegildosantos.site"><img src="https://img.shields.io/badge/PORTFOLIO-E0A419?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://three-js-port-hermenysantos-projects.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-E0A419?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/hermenegildosantos"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:hermeny7@hotmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://orcid.org/0009-0004-3865-7072"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
@@ -18,15 +18,15 @@ Full-Stack **AI Engineer** — I ship production AI products end-to-end: the mod
 Currently building immersive, AI-driven live experiences as a Full-Stack Engineer at [Dorier](https://dorier-group.com), part of MCI Group. 5+ years shipping production systems across **healthcare, enterprise, and immersive-experience** domains — generalist across backend, frontend, mobile, cloud, and AI integration.
 
 - 🤖 Building **human-in-the-loop AI** for live events — Azure OpenAI GPT-4o, OpenAI Realtime API over WebRTC, real-time TTS, WebSocket audience broadcast.
-- 🚀 Architected an **Azure Functions + Cosmos DB backend serving 2,100 concurrent users** across 12 global locations — built in 5 weeks, first time on the stack, zero incidents.
-- 🌍 Based in Portugal · open to remote worldwide.
+- 🚀 Helped architect, with the Dorier team, an **Azure Functions + Cosmos DB backend serving 2,100 concurrent users** across 12 global locations — delivered in 5 weeks, first time on the stack, zero incidents.
+- 🌍 Based in Portugal · experienced working remotely with distributed teams.
 
 ## 🔨 Featured Work
 
 | Project | What it is | Stack |
 | --- | --- | --- |
 | **[PMI AI Moderator](https://pmi-ai-moderator.azurewebsites.net)** | Human-in-the-loop AI moderator for live PMI panels — GPT-4o + realtime TTS, broadcast to a live audience over WebSockets. | FastAPI · React · Azure OpenAI · WebRTC · Docker |
-| **Scopely Global Event** *(WebAR backend)* | Serverless backend for a global AR event — rate limiting, anti-abuse, GDPR-aligned data, React admin dashboard. 2,100 concurrent users. | Azure Functions · Cosmos DB · TypeScript |
+| **Major gaming brand — global WebAR event** | Serverless backend for a global AR event — React admin dashboard. 2,100 concurrent users across 12 locations in 5 weeks. | Azure Functions · Cosmos DB · TypeScript |
 | **[NexTool API](https://github.com/HermenySantos/nextool-api)** | 13+ developer-utility endpoints on Cloudflare's edge — sub-ms latency, monetized on RapidAPI. | TypeScript · Cloudflare Workers · Hono · Vitest |
 | **[InvoFlow](https://github.com/HermenySantos/invoflow)** | Invoice/receipt SaaS for Portuguese SMBs — OCR extraction, real-time VAT tracking, accountant-ready export. | FastAPI · Next.js 14 · PostgreSQL · Azure Document Intelligence |
 | **[Totem Proximity Flash](https://github.com/HermenySantos/totem-proximity-flash)** | Open-source extraction of the UN Geneva Visitor Center proximity feature — MQTT + Quuppa indoor positioning, 40 tests. | React Native · Expo · TypeScript · Reanimated |
