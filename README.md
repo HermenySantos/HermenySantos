@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://three-js-port-hermenysantos-projects.vercel.app">
+  <a href="https://www.hermenegildosantos.com">
     <img src="media/banner.png" alt="Hermenegildo Santos — Full-Stack AI Engineer" width="100%" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://three-js-port-hermenysantos-projects.vercel.app"><img src="https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://www.hermenegildosantos.com"><img src="https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/hermenegildosantos"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="mailto:hermeny7@hotmail.com"><img src="https://img.shields.io/badge/Email-EA580C?style=for-the-badge" alt="Email" /></a>
   <a href="https://github.com/HermenySantos"><img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge" alt="GitHub" /></a>
